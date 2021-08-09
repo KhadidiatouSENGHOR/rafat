@@ -1,0 +1,186 @@
+/*header*/
+#header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+ul
+{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+li
+{
+    padding: 20px;
+    cursor: pointer;
+}
+.getstarted
+{
+   background-color: #ff4c00;
+   border-radius:100px;
+   color: white;
+   height: 3px;
+  padding-top: 4px;
+  margin-top: 15px;
+}
+#texte
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 100px;
+    color: #13297f;
+
+}
+button .LM
+{
+    background-color: #ff4c00;
+    border-radius: 150px;
+    width: 200px;
+    font-size: 1em;
+    color: #ffffff;
+}
+#texte p
+{
+    color: #13297f;
+}
+/*body1*/
+#partiebleue
+{
+    display: block;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #33428a;
+    height: 450px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#partiebleue em
+{
+    background-color: white;
+    border-radius: 150px;
+    width: 200px;
+    margin-left: 550px;
+}
+.corpsNO
+{
+    color: white;
+}
+#partiebleue h2
+{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.picto
+{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.lorem
+{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-around;
+}
+button
+{
+    background-color: #ff4c00;
+    border-radius: 150px;
+    width: 150px;
+    font-size: 1em;
+    color: white;
+}
+.more
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/*body2*/
+#partieorange
+{
+    display: block;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #ff4c00;
+    height: 350px;
+    margin-top: -25px;
+}
+#partieorange em
+{
+    background-color: white;
+    border-radius: 150px;
+    width: 200px;
+    color: white;
+    margin-left: 550px;
+}
+
+#partieorange h2
+{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.pictures
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+#partieblanche
+{
+   display: block;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #ccc;
+    height: 350px;
+    margin-top: 20px; 
+}
+#partieblanche h2
+{
+    text-align: center;
+    color: #33428a;
+    padding-top: 20px;
+    align-items: center;
+}
+.tel
+{
+    color: #33428a;
+    text-align: justify;
+}
+.carto
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: -120px;
+    float: right;
+    position: relative;
+    top: 0px;
+    right: 20px;
+}
+#copyright
+{
+    background-color: #33428a;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+body
+{
+    width: 90%;
+    margin: auto;
+}
